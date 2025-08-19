@@ -1,2 +1,2 @@
 # telegram-chatbot
-A simple Telegram chatbot built with Python, integrated with the Groq API (LLaMA 3) for AI-powered responses. Features include real-time chat on Telegram, secure API key management using .env, and easy setup with requirements.txt
+A free Telegram chatbot that answers user queries with the latest real-time information using the DuckDuckGo Search API.
